@@ -1,5 +1,5 @@
 {
-  "name": "gravatar-api",
+  "name": "@fictiv/gravatar-api",
   "version": "1.4.0",
   "description": "module to build image and profile urls for gravatar",
   "keywords": [
